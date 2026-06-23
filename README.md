@@ -8,11 +8,11 @@ The goal of the project is to provide local businesses and organizations with mo
 
 ## Homepage
 
-![Homepage](screenshots/web-studio.png)
+![Homepage](images/web-studio.png)
 
 ## Contact Page
 
-![Contact Page](screenshots/web-contact.png)
+![Contact Page](images/web-contact.png)
 
 
 Features
