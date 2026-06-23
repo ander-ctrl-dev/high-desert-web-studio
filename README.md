@@ -6,6 +6,15 @@ Overview
 High Desert Web Studio is a responsive website designed and developed by Ali. The site serves as both a portfolio and a landing page for freelance web development work, featuring project showcases, contact information, and personal background.
 The goal of the project is to provide local businesses and organizations with modern, accessible websites while documenting my growth as a developer.
 
+## Homepage
+
+![Homepage](screenshots/web-studio.png)
+
+## Contact Page
+
+![Contact Page](screenshots/web-contact.png)
+
+
 Features
 * Responsive design
 * Project showcase pages
