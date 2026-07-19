@@ -71,6 +71,29 @@
     letter-spacing: -2px;
     max-width: 700px;
 }
+.hero-features {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin: 3rem 0;
+    flex-wrap: wrap;
+}
+
+.feature-card {
+    max-width: 250px;
+    padding: 1.5rem;
+    background: rgba(255,255,255,0.08);
+    border-radius: 12px;
+    backdrop-filter: blur(8px);
+}
+
+.feature-card h3 {
+    margin-bottom: 0.75rem;
+}
+
+.feature-card p {
+    font-size: 0.95rem;
+}
 
 .hero p {
     color: rgba(255,255,255,.85);
